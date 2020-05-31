@@ -1,2 +1,2 @@
-# python_course_course
+# Python 3 Course
 Python3 Course (Jose Portilla): Jupter Notebooks, working with files, web scraping etc....
