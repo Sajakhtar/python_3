@@ -27,7 +27,9 @@ Python3 Masterclass (Jose Portilla)
  * Reading and writing Files
   * Zip folders
   * Working with CSV files
-  * WOrking with PDF files
+  * Working with PDF files
  * Sending Emails
-  * 
+ * Working with images
+ * Encryption and decryption
+ * Geo mapping
 
